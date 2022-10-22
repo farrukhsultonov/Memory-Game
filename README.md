@@ -4,6 +4,11 @@ Programming language memory game. Player has to find 6 pairs of cards in 25 seco
 
 ## Screenshots
 
+![new game](https://user-images.githubusercontent.com/64098042/197345494-ffa36836-2437-4642-a44c-e0acaa27eb63.png)
+
+![game started](https://user-images.githubusercontent.com/64098042/197345508-49c7dbfe-9a75-49b8-86c3-5eb99080870d.png)
+
+![completed game](https://user-images.githubusercontent.com/64098042/197345517-fd29d755-9c69-4a69-abd2-0d4c13ab6572.png)
 
 ##Built with
 * HTML
