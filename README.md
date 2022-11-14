@@ -2,6 +2,8 @@
 
 Programming language memory game. Player has to find 6 pairs of cards in 25 seconds to win the game. 
 
+## Click [here](https://farrukhsultonov.github.io/Memory-Game/) to play the game.
+
 ## Screenshots
 
 ![new game](https://user-images.githubusercontent.com/64098042/197345494-ffa36836-2437-4642-a44c-e0acaa27eb63.png)
